@@ -1,0 +1,58 @@
+body {
+    background-color: #7A4998;
+    text-align: center;
+    font-size: large;
+}
+
+img {
+  border: 5px solid #555;
+}
+
+/*Index.html*/
+.sections{
+    color: #000000;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+  a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+        
+/*Chessrules.html*/
+.bod{
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+
+.centered{
+  color: #ffffff;
+  text-align: left;
+}
+
+
+/*moves.html*/
+.doubleimage{
+  display: inline-block;
+}
